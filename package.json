@@ -1,0 +1,19 @@
+{
+  "name": "twitter_clone_react_solidity_dapp-main",
+  "version": "1.0.0",
+  "description": "This is the repository to contain Dapp Twitter Clone using React and Solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "avataaars": "^2.0.0",
+    "axios": "^0.27.2",
+    "ethers": "^5.6.6",
+    "react": "^16.0.0"
+  }
+}
